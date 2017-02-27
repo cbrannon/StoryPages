@@ -1,0 +1,253 @@
+.container {
+  width: 1170px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.centering {
+  width: 1170px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.zero-top {
+  margin-top: 0;
+}
+
+.single-product {
+  width: 650px;
+  display: inline-block;
+  float: left;
+}
+
+.card {
+  height: 650px;
+  width: 1170px;
+}
+
+.topCard {
+  height: 1400px;
+}
+
+.appSideLeft {
+  padding: 0 40px 0 0;
+}
+
+.appSideRight {
+  padding: 0 0 0 40px;
+}
+
+.appSideRight, .appSideLeft {
+  height: 100%;
+}
+
+.boxShadow {
+  -webkit-box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.17);
+  -moz-box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.17);
+  box-shadow: 0px 1px 3px 0px rgba(0,0,0,0.17);
+}
+
+.extraShadow {
+  -webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.17);
+  -moz-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.17);
+  box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.17);
+}
+
+.tophead-with-app {
+  padding-top: 100px;
+}
+
+.backgroundApp {
+  background-image: url("/content/dam/public/lighting/resources/StoryPage/Crosstour-Files/courthouse.jpg");
+}
+
+.cardBackground1 {
+  background-image: url("/content/dam/public/lighting/resources/StoryPage/Crosstour-Files/infographic-background.jpg");
+}
+
+.cardBackground2 {
+  background-image: url("/content/dam/public/lighting/resources/StoryPage/Crosstour-Files/reliability.jpg");
+}
+
+.testimonialBlock {
+  padding: 20px 20px;
+  width: auto;
+  height: 400px;
+  /*background-color: #005EB8;*/
+  line-height: 1.42857143;
+}
+
+.testimonials {
+  height: 400px;
+  width: 870px;
+}
+
+.tophead {
+  width: 353px;
+}
+
+.techspec {
+  height: 820px;
+}
+
+.beforeTech {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+.team-text {
+  background-color: #f3f3f3;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  text-align: left;
+}
+
+.ot-circle {
+  background-color: #e8e8e8;
+  color: #5c5d57;
+  line-height: 98px;
+}
+
+.fa {
+  font-size: 40px;
+}
+
+.pagehead h3, .tophead h3, .tophead h5 {
+  font-family: 'Roboto', sans-serif;
+}
+
+.pagehead h3, .tophead h3, .sidebar h3 {
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 1.1;
+}
+
+.tophead h5, .twoColumns h5 {
+  font-weight: 500;
+}
+
+.paratop {
+  font-size: 18px;
+  line-height: 1.42857143;
+}
+
+.testibar {
+  height: 400px;
+  line-height: 12px;
+  width: 300px;
+}
+
+.feature {
+  width: 1170px;
+}
+
+.feature-with-side {
+  width: 800px;
+  height: 447.45px;
+  display: inline-block;
+  float: left;
+}
+
+div .carousel-container {
+  height: 447.45px;
+}
+
+div .product-carousel-container {
+  height: auto;
+}
+
+div .carousel-inner-top {
+  top: -5px;
+}
+
+/* Navtabs.css overwrite */
+.carousel img {
+  border: 0 !important;
+  border-width: 0 !important;
+}
+
+/* Carousel Indicators overwrite */
+.carousel-indicators {
+  top: auto !important;
+  left: 45% !important;
+}
+
+.carousel-indicators li {
+  background-color: #ccc !important;
+}
+
+.carousel-indicators .active {
+    background-color: #333 !important;
+    margin-left: 5px !important;
+}
+
+.sidebar {
+  color: white;
+  padding: 20px;
+  width: 370px;
+  height: 447.45px;
+  display: inline-block;
+}
+
+.side-blue {
+  background-color: #005EB8;
+}
+
+.side-copper {
+  background-color: #423b35;;
+}
+
+.gallery-expander-contents {
+  margin-bottom: 200px;
+}
+
+.twoColumns {
+  width: 575px;
+  display: inline-block;
+  margin-right: 0;
+}
+
+.twoColumnImage {
+  margin-top: 80px;
+}
+
+.threeSteps {
+  height: 510px;
+  padding: 0;
+}
+
+.twoColumns h3 {
+  font-size: 32px;
+  font-weight: 400;
+}
+
+.secondColum {
+  margin-left: 15px;
+}
+
+.topTitle {
+  float: right;
+  display: inline-block;
+}
+
+.logoCTA {
+  height: auto;
+}
+
+.whiteCopy {
+  color: white;
+}
+
+.withTech {
+  height: 1500px;
+}
+
+.logoLinks {
+  margin: 60px 0 !important;
+}
+
+.giveSpace {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
