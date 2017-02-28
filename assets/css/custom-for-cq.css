@@ -29,6 +29,10 @@
   width: 1170px;
 }
 
+.cardReset {
+  height: auto;
+}
+
 .topCard {
   height: 1400px;
 }
@@ -241,6 +245,10 @@ div .carousel-inner-top {
 
 .whiteCopy {
   color: white;
+}
+
+.darkCopy {
+  color: #3b3b3b;
 }
 
 .withTech {
